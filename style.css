@@ -4,9 +4,9 @@ body {
 h1 {
 }
 .center {
-  position: absolute;
+  text-align: center;
 }
 .half {
-  width: 50%;
-  height: 50%;
+  width: 400 px;
+  height: 300 px;
 }
