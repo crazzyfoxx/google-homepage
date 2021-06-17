@@ -4,9 +4,16 @@ body {
 h1 {
 }
 .center {
-  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
 }
+.center_img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .half {
-  width: 400 px;
-  height: 300 px;
+  width: 50%;
+  height: 50%;
 }
